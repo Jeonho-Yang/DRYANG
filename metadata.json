@@ -1,0 +1,7 @@
+{
+  "name": "양전호내과의원 비대면 홈페이지",
+  "description": "서울 은평구에 위치한 양전호내과의원의 비대면 진료 및 일반 진료 안내를 위한 현대적이고 신뢰감 있는 공식 웹사이트입니다.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
